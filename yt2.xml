@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="DerCoop/android_device_lenovo_YT2" path="device/lenovo/YT2" remote="github" />
+  <project name="DerCoop/proprietary_vendor_lenovo_YT2" path="vendor/lenovo/YT2" remote="github" />
+  <project name="DerCoop/android_kernel_lenovo_baytrail" path="kernel/lenovo/baytrail" remote="github" revision="3.10.20" />
+</manifest>

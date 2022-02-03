@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!--project name="lenovo-yt2-dev/android_hardware_intel_img_libdrm" path="hardware/intel/img/libdrm" groups="intel" revision="cm-12.1" /-->
+  <project name="lenovo-yt2-dev/android_external_libpciaccess" path="external/libpciaccess" groups="pdk" revision="cm-12.1" />
+  <!--project name="lenovo-yt2-dev/android_hardware_intel_common_libmix" path="hardware/intel/common/libmix" groups="intel" /-->
+  <!--project name="lenovo-yt2-dev/android_hardware_intel_common_omx-components" path="hardware/intel/common/omx-components" groups="intel" /-->
+  <project name="lenovo-yt2-dev/android_hardware_intel_kernelflinger" path="hardware/intel/kernelflinger" groups="intel" revision="cm-12.1" />
+  <project name="lenovo-yt2-dev/android_bootable_uefi" path="bootable/uefi" groups="pdk" revision="cm-12.1" />
+  <project name="lenovo-yt2-dev/android_vendor_intel_hardware_ufo_gen7" path="vendor/intel/hardware/ufo/gen7" groups="intel" revision="cm-12.1" />
+  <project name="lenovo-yt2-dev/android_vendor_intel_hardware_libva" path="vendor/intel/hardware/libva" groups="intel" revision="cm-12.1" />
+  <project name="lenovo-yt2-dev/android_device_intel_baytrail-common" path="device/intel/baytrail-common" revision="cm-12.1" />
+  <project name="lenovo-yt2-dev/android_hardware_intel_img_psb_video" path="hardware/intel/img/psb/video" groups="intel" revision="cm-12.1" />
+  <project name="lenovo-yt2-dev/android_hardware_intel_img_psb_headers" path="hardware/intel/img/psb/headers" groups="intel" revision="cm-12.1" />
+  <!--project name="lenovo-yt2-dev/android_external_tinyalsa" path="external/tinyalsa" /-->
+  <!--project name="lenovo-yt2-dev/android_hardware_intel_img_hwcomposer" path="hardware/intel/img/hwcomposer" groups="intel" /-->
+  <project name="DerCoop/android_vendor_intel_openssl" path="vendor/intel/external/openssl" groups="intel" revision="lineage-15.1" />
+</manifest>
